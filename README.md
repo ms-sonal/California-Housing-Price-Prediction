@@ -95,3 +95,10 @@ B.Tech Computer Science Engineering Student
 ### Actual vs Predicted
 ![Actual vs Predicted](actual_vs_predicted.png)
 
+## How to Run the Project
+
+1. Clone the repository.
+2. Install dependencies:
+   pip install -r requirements.txt
+3. Open the notebook in Google Colab or Jupyter Notebook.
+4. Run all cells.
