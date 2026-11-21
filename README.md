@@ -83,3 +83,15 @@ The model was saved using Joblib as `california_housing_model.pkl`.
 B.Tech Computer Science Engineering Student
 
 **Learning Focus:** Machine Learning and Generative AI
+
+## Project Visualizations
+
+### Correlation Heatmap
+![Correlation Heatmap](correlation_heatmap.png)
+
+### Feature Importance
+![Feature Importance](feature_importance.png)
+
+### Actual vs Predicted
+![Actual vs Predicted](actual_vs_predicted.png)
+
