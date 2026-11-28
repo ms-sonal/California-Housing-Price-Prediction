@@ -1,5 +1,10 @@
 # California Housing Price Prediction 🏡
 
+🚀 **Live Demo:** [Try the App](https://california-housing-price-prediction-q3wkqwtrpmbrfswgygmtpi.streamlit.app/ )
+
+A Machine Learning project that predicts California house prices
+using Random Forest Regression.
+
 ## Project Overview
 This project uses Machine Learning regression algorithms to predict median house values in California based on housing and demographic features.
 
